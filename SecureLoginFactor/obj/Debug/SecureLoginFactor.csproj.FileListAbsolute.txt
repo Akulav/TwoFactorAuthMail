@@ -1,0 +1,9 @@
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\bin\Debug\SecureLoginFactor.exe.config
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\bin\Debug\SecureLoginFactor.exe
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\bin\Debug\SecureLoginFactor.pdb
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.csprojAssemblyReference.cache
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.Form1.resources
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.Properties.Resources.resources
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.csproj.GenerateResource.cache
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.exe
+C:\Users\akula\source\repos\SecureLoginFactor\SecureLoginFactor\obj\Debug\SecureLoginFactor.pdb
